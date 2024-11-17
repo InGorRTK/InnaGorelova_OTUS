@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Enum uuid="6b4e5e73-4488-4134-a555-31eee9d1d9bb">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ВидыКлассаБронированияАвиабилетов" category="Ref">
+				<xr:TypeId>55487ec3-3788-4b41-ac93-3bb81db30d8c</xr:TypeId>
+				<xr:ValueId>b720be7d-3258-491d-90d2-61661f794517</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ВидыКлассаБронированияАвиабилетов" category="Manager">
+				<xr:TypeId>d6ec7e1b-a77c-444a-86e3-b5f4143eeff6</xr:TypeId>
+				<xr:ValueId>e422e3f7-062e-428c-851c-3ae3b3dba83f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ВидыКлассаБронированияАвиабилетов" category="List">
+				<xr:TypeId>694776de-74af-4e2d-9286-c4f9c96c96d1</xr:TypeId>
+				<xr:ValueId>14b0111e-d0b7-4cdc-9084-cd48e810ce75</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВидыКлассаБронированияАвиабилетов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>2fffdd16-e25b-425b-a1d9-bd900ba4a082</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="00b9e4b8-fe9f-45c4-b8a1-09dc79582772">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Эконом</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>e0fe13bf-0b7b-4950-afc4-14736fd6d60d</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="a5c869b1-29e7-4582-b3ca-095925ec6633">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Бизнес</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>236eafed-311d-485c-b632-aaaa70cb1aa9</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

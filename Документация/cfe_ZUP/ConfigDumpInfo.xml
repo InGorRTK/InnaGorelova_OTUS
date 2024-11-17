@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.ВидыДокументовФизическихЛиц" id="47449a3e-4c62-48c3-8745-ee6dca737f03" configVersion="388a2d92a7ca56c7bbdcccea1ca71de86730e01d"/>
+		<Metadata name="CommonModule.RebbitMQКлиент" id="00778674-5f86-425b-8c9b-628e9c7cd584" configVersion="2f0acacf96ea4c21076677654493b4bea0078909"/>
+		<Metadata name="CommonModule.RebbitMQКлиент.Module" id="00778674-5f86-425b-8c9b-628e9c7cd584.0" configVersion="c4dfa6aaf747625725faca3fecc88c3c4d536e3a"/>
+		<Metadata name="CommonModule.RebbitMQКлиентСервер" id="f97c01fb-74df-4ef8-a9ea-282c65c0c84c" configVersion="ecd700ca6b450bd1fc661e9f606ea8db3b6263d8"/>
+		<Metadata name="CommonModule.RebbitMQКлиентСервер.Module" id="f97c01fb-74df-4ef8-a9ea-282c65c0c84c.0" configVersion="37d732f6353dd78601acb175a117932c2d7dafac"/>
+		<Metadata name="CommonModule.RebbitMQСервер" id="7579c3d7-9991-4480-9470-2b243ef677ab" configVersion="0ee615c4cb044a2396f8d937e0dc5ae43c087d1f"/>
+		<Metadata name="CommonModule.RebbitMQСервер.Module" id="7579c3d7-9991-4480-9470-2b243ef677ab.0" configVersion="c341a8d447ba3c2e83d3c44d8b546a17527d952d"/>
+		<Metadata name="CommonModule.ОТУС_ОбменОбъектамиИнтеграции" id="926dafaa-4114-4595-bc75-bb69a704ac25" configVersion="db019d2ca969b11dc9cef84496d208968105e960"/>
+		<Metadata name="CommonModule.ОТУС_ОбменОбъектамиИнтеграции.Module" id="926dafaa-4114-4595-bc75-bb69a704ac25.0" configVersion="96c89f92ca0c91b83bec48a768bc17a3bf5bc641"/>
+		<Metadata name="CommonModule.ОТУС_РегламентныеЗаданияСервер" id="ed40329f-1114-40d4-beb3-bf61385a091b" configVersion="c29bf09c406c542790cd37fb8b1c869f51441e4d"/>
+		<Metadata name="CommonModule.ОТУС_РегламентныеЗаданияСервер.Module" id="ed40329f-1114-40d4-beb3-bf61385a091b.0" configVersion="b6d57477a7113a6e0f0b9d322d9606a61a2b00e0"/>
+		<Metadata name="CommonTemplate.PinkRabbitMQ" id="2bedbac5-df37-460e-8432-aa0049caab7b" configVersion="dadef1866ce5be8d1f3d0ea2747778fbf68bb34a"/>
+		<Metadata name="CommonTemplate.PinkRabbitMQ.Template" id="2bedbac5-df37-460e-8432-aa0049caab7b.0" configVersion="c37aa8645ea6b761deabea984fa2e25a7d503a6c"/>
+		<Metadata name="Configuration.ОТУС_ЗУП" id="d0aa0274-ce7c-4c37-96d9-f8e58a76b25a" configVersion="ae1465e30866d5f45edeb8e242de18d7c608a3d0"/>
+		<Metadata name="DataProcessor.ПримерЗагрузки" id="c1a6f6bc-a05b-471e-94d0-450a0b65f931" configVersion="a9fd78f5cc4da7ebf7d27f04d428146cd0d44516">
+			<Metadata name="DataProcessor.ПримерЗагрузки.Command.ЗагрузкаНаСервере" id="b9bafab4-279e-4d87-a631-f797d917dfaf"/>
+			<Metadata name="DataProcessor.ПримерЗагрузки.Command.ЗагрузкаНаКлиенте" id="dc43ffee-26ac-4ad4-bf92-2b2da60829ea"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ПримерЗагрузки.Command.ЗагрузкаНаКлиенте.CommandModule" id="dc43ffee-26ac-4ad4-bf92-2b2da60829ea.2" configVersion="fabaf25d3feef6b0b3379d3efd69bb794c80988e"/>
+		<Metadata name="DataProcessor.ПримерЗагрузки.Command.ЗагрузкаНаСервере.CommandModule" id="b9bafab4-279e-4d87-a631-f797d917dfaf.2" configVersion="b34a96cbf3ecf8f327b1b80fbe482d789f275934"/>
+		<Metadata name="DataProcessor.ПримерЗагрузки.Form.ЗагрузкаНаКлиенте" id="6c2a8051-39a0-41cd-bdc2-cc209ebc2e38" configVersion="b39d96fe653fa81f008848d0ed029411360dfbfd"/>
+		<Metadata name="DataProcessor.ПримерЗагрузки.Form.ЗагрузкаНаКлиенте.Form" id="6c2a8051-39a0-41cd-bdc2-cc209ebc2e38.0" configVersion="5fb857cf792cd089aafd119b9ae728282d9091b2"/>
+		<Metadata name="DataProcessor.ПримерЗагрузки.Form.ЗагрузкаНаСервере" id="f3aaa1c1-6629-4698-9637-ef7affcdde29" configVersion="d5b89ecc8923fc95426648427396f664ed058ded"/>
+		<Metadata name="DataProcessor.ПримерЗагрузки.Form.ЗагрузкаНаСервере.Form" id="f3aaa1c1-6629-4698-9637-ef7affcdde29.0" configVersion="09dab9b47e45845d28648aa677779c5b9d872a22"/>
+		<Metadata name="Document.ЗаявкаНаКомандировку" id="6840139f-3742-4af8-806f-cf6e9fb5eed7" configVersion="60bb82f5a377e0eef77c5b79aa2c96699dfdd359">
+			<Metadata name="Document.ЗаявкаНаКомандировку.Attribute.ОТУС_НомерВходящегоДокумента" id="b86bad96-55eb-4695-a3a5-8d86bc365c31"/>
+			<Metadata name="Document.ЗаявкаНаКомандировку.Attribute.ОТУС_ДатаВходящегоДокумента" id="c562f607-27e9-4371-8bc8-ad28b1892237"/>
+		</Metadata>
+		<Metadata name="Document.ЗаявкаНаКомандировку.Form.ФормаДокумента" id="c22dde6f-e34f-4aa6-997f-7fec59e3fe8b" configVersion="53d7e8b811cbba5661bb615b858af40baafc663f"/>
+		<Metadata name="Document.ЗаявкаНаКомандировку.Form.ФормаДокумента.Form" id="c22dde6f-e34f-4aa6-997f-7fec59e3fe8b.0" configVersion="c5c5fda66e748ae1d978d680c1314e1a8d50bb4f"/>
+		<Metadata name="Document.Командировка" id="9b984513-9039-4a23-9238-61b2f6fe45d3" configVersion="4530cf6550966b74d1723215658f5416e9a71bf4"/>
+		<Metadata name="Enum.ВидыКлассаБронированияАвиабилетов" id="6b4e5e73-4488-4134-a555-31eee9d1d9bb" configVersion="b097d1631729443063c3f24241f56f364d2266a8">
+			<Metadata name="Enum.ВидыКлассаБронированияАвиабилетов.EnumValue.Эконом" id="00b9e4b8-fe9f-45c4-b8a1-09dc79582772"/>
+			<Metadata name="Enum.ВидыКлассаБронированияАвиабилетов.EnumValue.Бизнес" id="a5c869b1-29e7-4582-b3ca-095925ec6633"/>
+		</Metadata>
+		<Metadata name="Enum.ВидыТранспортаБронированияБилетов" id="8e723083-b195-494e-aa9b-19511e9ef541" configVersion="d8923093ba8e873ba9e0ad2ec6df7d21ccb46488">
+			<Metadata name="Enum.ВидыТранспортаБронированияБилетов.EnumValue.Поезд" id="40048941-4163-43fe-8f9f-b282de5c5874"/>
+			<Metadata name="Enum.ВидыТранспортаБронированияБилетов.EnumValue.Самолет" id="72751021-ef95-45a8-95c2-385a1e041bdf"/>
+		</Metadata>
+		<Metadata name="Enum.ПолФизическогоЛица" id="2fe01401-4dce-4afb-af89-34ee1083fc27" configVersion="8a86203eacf86fc9807e0a5a479719d1d917a54f">
+			<Metadata name="Enum.ПолФизическогоЛица.EnumValue.Женский" id="921a8141-251f-4cc1-ad31-b57a765e6e3d"/>
+			<Metadata name="Enum.ПолФизическогоЛица.EnumValue.Мужской" id="e4d5f8eb-542f-452f-b416-70dc190271c7"/>
+		</Metadata>
+		<Metadata name="Enum.СостояниеОбъектовИнтеграции" id="eac08457-5b12-4c3a-8138-f2447b31728f" configVersion="de18284d6a25fdaaec308286fa609c2ed54f9259">
+			<Metadata name="Enum.СостояниеОбъектовИнтеграции.EnumValue.Отправлен" id="221cbe70-19fc-430e-ba0d-36f3f430e4c4"/>
+			<Metadata name="Enum.СостояниеОбъектовИнтеграции.EnumValue.Ожидает" id="3ace8eba-29bc-4e3e-a6ea-36f13b5022fd"/>
+			<Metadata name="Enum.СостояниеОбъектовИнтеграции.EnumValue.Принят" id="bef7ea73-d61a-4c38-9c7e-c27f4924d36d"/>
+		</Metadata>
+		<Metadata name="EventSubscription.ОТУС_ДобавлениеОбъектовИнтеграцииПриЗаписи" id="ae3dff23-7c47-475e-9714-cdbd3e539453" configVersion="f9ecc420c12c6bdb7cae1182b00e24bd480285e7"/>
+		<Metadata name="InformationRegister.КАБНастройкиПодключенияКRebbitMQ" id="55e0edaa-6139-455f-a339-1d75ff8450a3" configVersion="82fcdaaffcde6d0ec1df842c85332e46dd8712a0">
+			<Metadata name="InformationRegister.КАБНастройкиПодключенияКRebbitMQ.Resource.ВиртуальныйХост" id="0bd32a56-30f3-48fc-a1cb-63271294f7c4"/>
+			<Metadata name="InformationRegister.КАБНастройкиПодключенияКRebbitMQ.Resource.Пароль" id="13a27543-38a9-4a2a-ae8f-96be27be358e"/>
+			<Metadata name="InformationRegister.КАБНастройкиПодключенияКRebbitMQ.Resource.ТочкаОбмена" id="3728d411-8589-47a6-92e3-dec0f67c0a9a"/>
+			<Metadata name="InformationRegister.КАБНастройкиПодключенияКRebbitMQ.Dimension.Включен" id="57395e65-dbdf-4915-a7a0-6298ee6de702"/>
+			<Metadata name="InformationRegister.КАБНастройкиПодключенияКRebbitMQ.Dimension.Описание" id="5b75e57e-e97b-40e7-8811-fe2cb46021a6"/>
+			<Metadata name="InformationRegister.КАБНастройкиПодключенияКRebbitMQ.Resource.КлючМаршрута" id="6a57d027-1639-400d-b101-c06e6e292c42"/>
+			<Metadata name="InformationRegister.КАБНастройкиПодключенияКRebbitMQ.Resource.ИмяОчереди" id="8eadd764-f8ef-4f6e-8f2d-5bc8ef79ca1b"/>
+			<Metadata name="InformationRegister.КАБНастройкиПодключенияКRebbitMQ.Resource.Порт" id="afb4beaa-3232-41b6-ab19-1d3ff0a69982"/>
+			<Metadata name="InformationRegister.КАБНастройкиПодключенияКRebbitMQ.Resource.Таймаут" id="c270a7d0-fbdc-4724-84e1-6ed4ef6a0b1f"/>
+			<Metadata name="InformationRegister.КАБНастройкиПодключенияКRebbitMQ.Resource.Логин" id="d3202f5a-abfc-4037-ba92-1dbc7cc74389"/>
+			<Metadata name="InformationRegister.КАБНастройкиПодключенияКRebbitMQ.Dimension.Адрес" id="dd156e44-4306-4522-9186-0af5478f3fbd"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ОбъектыИнтеграции" id="41ed49f2-ae2b-4449-b479-bd702ebe16fd" configVersion="cd5c7ee4910265c994777e7351b39c56b23b6d68">
+			<Metadata name="InformationRegister.ОбъектыИнтеграции.Resource.Состояние" id="43fae758-516f-4232-8e2e-8f3c27de76ec"/>
+			<Metadata name="InformationRegister.ОбъектыИнтеграции.Dimension.СсылкаНаОбъект" id="6ab2fac7-621b-4721-8749-27e2e746b35b"/>
+			<Metadata name="InformationRegister.ОбъектыИнтеграции.Resource.ДатаИзменения" id="c6696c17-06ac-44f7-b206-c3bf8fa14daa"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="bd592b29-36da-428c-8103-ff14f2aa68ab" configVersion="72fa322ad2280d954e3ca627e9a262af90259635"/>
+		<Metadata name="Role.ОТУС_ОсновнаяРоль" id="81682bc7-18fc-43c4-a54d-6456cccac07a" configVersion="f5c3803a43a73a909546ffb64bbab0fac209939e"/>
+		<Metadata name="ScheduledJob.ОТСУ_ОбменЗаявкиНаКомандировку" id="790339d1-e3a7-4155-965d-d2025a424410" configVersion="eb119dd135f5aa4ec8905e55d8089c7a55e096dc"/>
+		<Metadata name="StyleItem.ПоясняющийТекст" id="ff9b3f18-c824-4445-980b-e1fcdc866ad8" configVersion="318d87e4c559b2579d49709ea69e71b7ccaa1035"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Enum uuid="8e723083-b195-494e-aa9b-19511e9ef541">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ВидыТранспортаБронированияБилетов" category="Ref">
+				<xr:TypeId>37ad102d-98ef-46b1-8c10-9a1fee7c0e90</xr:TypeId>
+				<xr:ValueId>14f4bf6f-221b-42bf-954b-428638eb4a5b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ВидыТранспортаБронированияБилетов" category="Manager">
+				<xr:TypeId>39b89c49-1d71-4767-b5b8-f83243cab15a</xr:TypeId>
+				<xr:ValueId>3f6dd785-c7e9-47ec-8c1c-3866a02a1e93</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ВидыТранспортаБронированияБилетов" category="List">
+				<xr:TypeId>0c261578-78d9-4f60-b9e8-375b758be582</xr:TypeId>
+				<xr:ValueId>52f7929e-729f-4150-a792-bd5664442080</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВидыТранспортаБронированияБилетов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>23734059-6c32-4d51-a4f9-2bfb10cae595</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="72751021-ef95-45a8-95c2-385a1e041bdf">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Самолет</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>6c9e6c0a-086c-4fe9-ae32-a49f87a7dff1</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="40048941-4163-43fe-8f9f-b282de5c5874">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Поезд</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>b35da7e2-b458-4260-bb5d-c7cee548805c</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

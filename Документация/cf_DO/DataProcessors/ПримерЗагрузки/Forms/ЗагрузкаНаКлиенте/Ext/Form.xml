@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcssch="http://v8.1c.ru/8.1/data-composition-system/schema" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<ChildItems>
+		<Button name="ПодключитьКомпоненту" id="18">
+			<Type>UsualButton</Type>
+			<CommandName>Form.Command.ПодключитьКомпонентуТест</CommandName>
+			<ExtendedTooltip name="ПодключитьКомпонентуРасширеннаяПодсказка" id="19"/>
+		</Button>
+		<Button name="ПроверитьПодключение" id="4">
+			<Type>UsualButton</Type>
+			<CommandName>Form.Command.ПроверитьПодключение</CommandName>
+			<ExtendedTooltip name="ПроверитьПодключениеРасширеннаяПодсказка" id="5"/>
+		</Button>
+		<InputField name="Сообщение" id="8">
+			<DataPath>Сообщение</DataPath>
+			<MultiLine>true</MultiLine>
+			<ContextMenu name="СообщениеКонтекстноеМеню" id="9"/>
+			<ExtendedTooltip name="СообщениеРасширеннаяПодсказка" id="10"/>
+		</InputField>
+		<Button name="ОтправитьСообщение" id="11">
+			<Type>UsualButton</Type>
+			<CommandName>Form.Command.ОтправитьСообщение</CommandName>
+			<ExtendedTooltip name="ОтправитьСообщениеРасширеннаяПодсказка" id="12"/>
+		</Button>
+		<Button name="ПолучитьСообщение" id="13">
+			<Type>UsualButton</Type>
+			<CommandName>Form.Command.ПолучитьСообщение</CommandName>
+			<ExtendedTooltip name="ПолучитьСообщениеРасширеннаяПодсказка" id="14"/>
+		</Button>
+		<InputField name="Ответ" id="15">
+			<DataPath>Ответ</DataPath>
+			<MultiLine>true</MultiLine>
+			<ContextMenu name="ОтветКонтекстноеМеню" id="16"/>
+			<ExtendedTooltip name="ОтветРасширеннаяПодсказка" id="17"/>
+		</InputField>
+	</ChildItems>
+	<Attributes>
+		<Attribute name="Объект" id="1">
+			<Type>
+				<v8:Type>cfg:DataProcessorObject.ПримерЗагрузки</v8:Type>
+			</Type>
+			<MainAttribute>true</MainAttribute>
+		</Attribute>
+		<Attribute name="Сообщение" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Сообщение</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="Ответ" id="3">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Ответ</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+	</Attributes>
+	<Commands>
+		<Command name="ОтправитьСообщение" id="1">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Отправить сообщение</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Отправить сообщение</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ОтправитьСообщение</Action>
+		</Command>
+		<Command name="ПолучитьСообщение" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Получить сообщение</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Получить сообщение</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ПолучитьСообщение</Action>
+		</Command>
+		<Command name="ПроверитьПодключение" id="3">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Проверить подключение</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Проверить подключение</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ПроверитьПодключение</Action>
+		</Command>
+		<Command name="СоздатьОчередь" id="4">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Создать очередь</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Создать очередь</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>СоздатьОчередь</Action>
+		</Command>
+		<Command name="ПодключитьКомпонентуТест" id="5">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Подключить компоненту</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Подключить компоненту тест</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ПодключитьКомпонентуТест</Action>
+		</Command>
+	</Commands>
+</Form>
