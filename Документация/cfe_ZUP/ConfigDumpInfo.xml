@@ -3,34 +3,34 @@
 	<ConfigVersions>
 		<Metadata name="Catalog.ВидыДокументовФизическихЛиц" id="47449a3e-4c62-48c3-8745-ee6dca737f03" configVersion="388a2d92a7ca56c7bbdcccea1ca71de86730e01d"/>
 		<Metadata name="CommonModule.RebbitMQКлиент" id="00778674-5f86-425b-8c9b-628e9c7cd584" configVersion="2f0acacf96ea4c21076677654493b4bea0078909"/>
-		<Metadata name="CommonModule.RebbitMQКлиент.Module" id="00778674-5f86-425b-8c9b-628e9c7cd584.0" configVersion="c4dfa6aaf747625725faca3fecc88c3c4d536e3a"/>
+		<Metadata name="CommonModule.RebbitMQКлиент.Module" id="00778674-5f86-425b-8c9b-628e9c7cd584.0" configVersion="b3d05f895728c138af522d644cd498aa6de851ce"/>
 		<Metadata name="CommonModule.RebbitMQКлиентСервер" id="f97c01fb-74df-4ef8-a9ea-282c65c0c84c" configVersion="ecd700ca6b450bd1fc661e9f606ea8db3b6263d8"/>
-		<Metadata name="CommonModule.RebbitMQКлиентСервер.Module" id="f97c01fb-74df-4ef8-a9ea-282c65c0c84c.0" configVersion="37d732f6353dd78601acb175a117932c2d7dafac"/>
+		<Metadata name="CommonModule.RebbitMQКлиентСервер.Module" id="f97c01fb-74df-4ef8-a9ea-282c65c0c84c.0" configVersion="23a8c17f236ca3afab77a13999a02319f19a4f46"/>
 		<Metadata name="CommonModule.RebbitMQСервер" id="7579c3d7-9991-4480-9470-2b243ef677ab" configVersion="0ee615c4cb044a2396f8d937e0dc5ae43c087d1f"/>
-		<Metadata name="CommonModule.RebbitMQСервер.Module" id="7579c3d7-9991-4480-9470-2b243ef677ab.0" configVersion="c341a8d447ba3c2e83d3c44d8b546a17527d952d"/>
+		<Metadata name="CommonModule.RebbitMQСервер.Module" id="7579c3d7-9991-4480-9470-2b243ef677ab.0" configVersion="44cc9169cb78dd190169fe457a6aa9279d15aa71"/>
 		<Metadata name="CommonModule.ОТУС_ОбменОбъектамиИнтеграции" id="926dafaa-4114-4595-bc75-bb69a704ac25" configVersion="db019d2ca969b11dc9cef84496d208968105e960"/>
-		<Metadata name="CommonModule.ОТУС_ОбменОбъектамиИнтеграции.Module" id="926dafaa-4114-4595-bc75-bb69a704ac25.0" configVersion="96c89f92ca0c91b83bec48a768bc17a3bf5bc641"/>
+		<Metadata name="CommonModule.ОТУС_ОбменОбъектамиИнтеграции.Module" id="926dafaa-4114-4595-bc75-bb69a704ac25.0" configVersion="c4bf4a307293a7103fcff5da1ed911a99795aa56"/>
 		<Metadata name="CommonModule.ОТУС_РегламентныеЗаданияСервер" id="ed40329f-1114-40d4-beb3-bf61385a091b" configVersion="c29bf09c406c542790cd37fb8b1c869f51441e4d"/>
-		<Metadata name="CommonModule.ОТУС_РегламентныеЗаданияСервер.Module" id="ed40329f-1114-40d4-beb3-bf61385a091b.0" configVersion="b6d57477a7113a6e0f0b9d322d9606a61a2b00e0"/>
+		<Metadata name="CommonModule.ОТУС_РегламентныеЗаданияСервер.Module" id="ed40329f-1114-40d4-beb3-bf61385a091b.0" configVersion="943738905a7a97fe1e658f81c764f32ed159c9d7"/>
 		<Metadata name="CommonTemplate.PinkRabbitMQ" id="2bedbac5-df37-460e-8432-aa0049caab7b" configVersion="dadef1866ce5be8d1f3d0ea2747778fbf68bb34a"/>
 		<Metadata name="CommonTemplate.PinkRabbitMQ.Template" id="2bedbac5-df37-460e-8432-aa0049caab7b.0" configVersion="c37aa8645ea6b761deabea984fa2e25a7d503a6c"/>
-		<Metadata name="Configuration.ОТУС_ЗУП" id="d0aa0274-ce7c-4c37-96d9-f8e58a76b25a" configVersion="ae1465e30866d5f45edeb8e242de18d7c608a3d0"/>
+		<Metadata name="Configuration.ОТУС_ЗУП" id="d0aa0274-ce7c-4c37-96d9-f8e58a76b25a" configVersion="b57e9265e722aa5d6de900b4ee96801c81c85445"/>
 		<Metadata name="DataProcessor.ПримерЗагрузки" id="c1a6f6bc-a05b-471e-94d0-450a0b65f931" configVersion="a9fd78f5cc4da7ebf7d27f04d428146cd0d44516">
 			<Metadata name="DataProcessor.ПримерЗагрузки.Command.ЗагрузкаНаСервере" id="b9bafab4-279e-4d87-a631-f797d917dfaf"/>
 			<Metadata name="DataProcessor.ПримерЗагрузки.Command.ЗагрузкаНаКлиенте" id="dc43ffee-26ac-4ad4-bf92-2b2da60829ea"/>
 		</Metadata>
-		<Metadata name="DataProcessor.ПримерЗагрузки.Command.ЗагрузкаНаКлиенте.CommandModule" id="dc43ffee-26ac-4ad4-bf92-2b2da60829ea.2" configVersion="fabaf25d3feef6b0b3379d3efd69bb794c80988e"/>
-		<Metadata name="DataProcessor.ПримерЗагрузки.Command.ЗагрузкаНаСервере.CommandModule" id="b9bafab4-279e-4d87-a631-f797d917dfaf.2" configVersion="b34a96cbf3ecf8f327b1b80fbe482d789f275934"/>
+		<Metadata name="DataProcessor.ПримерЗагрузки.Command.ЗагрузкаНаКлиенте.CommandModule" id="dc43ffee-26ac-4ad4-bf92-2b2da60829ea.2" configVersion="d3076d5937ea7051bfd916f184c942a9a51e54fa"/>
+		<Metadata name="DataProcessor.ПримерЗагрузки.Command.ЗагрузкаНаСервере.CommandModule" id="b9bafab4-279e-4d87-a631-f797d917dfaf.2" configVersion="3603fccf26c7aea454942428d60e3630d23043a0"/>
 		<Metadata name="DataProcessor.ПримерЗагрузки.Form.ЗагрузкаНаКлиенте" id="6c2a8051-39a0-41cd-bdc2-cc209ebc2e38" configVersion="b39d96fe653fa81f008848d0ed029411360dfbfd"/>
-		<Metadata name="DataProcessor.ПримерЗагрузки.Form.ЗагрузкаНаКлиенте.Form" id="6c2a8051-39a0-41cd-bdc2-cc209ebc2e38.0" configVersion="5fb857cf792cd089aafd119b9ae728282d9091b2"/>
+		<Metadata name="DataProcessor.ПримерЗагрузки.Form.ЗагрузкаНаКлиенте.Form" id="6c2a8051-39a0-41cd-bdc2-cc209ebc2e38.0" configVersion="ad11cd58338cd59cfe96e6dcacf5118026a7ff9d"/>
 		<Metadata name="DataProcessor.ПримерЗагрузки.Form.ЗагрузкаНаСервере" id="f3aaa1c1-6629-4698-9637-ef7affcdde29" configVersion="d5b89ecc8923fc95426648427396f664ed058ded"/>
-		<Metadata name="DataProcessor.ПримерЗагрузки.Form.ЗагрузкаНаСервере.Form" id="f3aaa1c1-6629-4698-9637-ef7affcdde29.0" configVersion="09dab9b47e45845d28648aa677779c5b9d872a22"/>
+		<Metadata name="DataProcessor.ПримерЗагрузки.Form.ЗагрузкаНаСервере.Form" id="f3aaa1c1-6629-4698-9637-ef7affcdde29.0" configVersion="0189c03aaf6f08a07229a1f8777bdd86eb634dbc"/>
 		<Metadata name="Document.ЗаявкаНаКомандировку" id="6840139f-3742-4af8-806f-cf6e9fb5eed7" configVersion="60bb82f5a377e0eef77c5b79aa2c96699dfdd359">
 			<Metadata name="Document.ЗаявкаНаКомандировку.Attribute.ОТУС_НомерВходящегоДокумента" id="b86bad96-55eb-4695-a3a5-8d86bc365c31"/>
 			<Metadata name="Document.ЗаявкаНаКомандировку.Attribute.ОТУС_ДатаВходящегоДокумента" id="c562f607-27e9-4371-8bc8-ad28b1892237"/>
 		</Metadata>
 		<Metadata name="Document.ЗаявкаНаКомандировку.Form.ФормаДокумента" id="c22dde6f-e34f-4aa6-997f-7fec59e3fe8b" configVersion="53d7e8b811cbba5661bb615b858af40baafc663f"/>
-		<Metadata name="Document.ЗаявкаНаКомандировку.Form.ФормаДокумента.Form" id="c22dde6f-e34f-4aa6-997f-7fec59e3fe8b.0" configVersion="c5c5fda66e748ae1d978d680c1314e1a8d50bb4f"/>
+		<Metadata name="Document.ЗаявкаНаКомандировку.Form.ФормаДокумента.Form" id="c22dde6f-e34f-4aa6-997f-7fec59e3fe8b.0" configVersion="594f9b5f42e630af971e9ea5ac829601a5154510"/>
 		<Metadata name="Document.Командировка" id="9b984513-9039-4a23-9238-61b2f6fe45d3" configVersion="4530cf6550966b74d1723215658f5416e9a71bf4"/>
 		<Metadata name="Enum.ВидыКлассаБронированияАвиабилетов" id="6b4e5e73-4488-4134-a555-31eee9d1d9bb" configVersion="b097d1631729443063c3f24241f56f364d2266a8">
 			<Metadata name="Enum.ВидыКлассаБронированияАвиабилетов.EnumValue.Эконом" id="00b9e4b8-fe9f-45c4-b8a1-09dc79582772"/>
@@ -69,7 +69,7 @@
 			<Metadata name="InformationRegister.ОбъектыИнтеграции.Resource.ДатаИзменения" id="c6696c17-06ac-44f7-b206-c3bf8fa14daa"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="bd592b29-36da-428c-8103-ff14f2aa68ab" configVersion="72fa322ad2280d954e3ca627e9a262af90259635"/>
-		<Metadata name="Role.ОТУС_ОсновнаяРоль" id="81682bc7-18fc-43c4-a54d-6456cccac07a" configVersion="f5c3803a43a73a909546ffb64bbab0fac209939e"/>
+		<Metadata name="Role.ОТУС_ОсновнаяРоль" id="81682bc7-18fc-43c4-a54d-6456cccac07a" configVersion="d1db0faba3106075004e22ea64a1091265bca5cd"/>
 		<Metadata name="ScheduledJob.ОТСУ_ОбменЗаявкиНаКомандировку" id="790339d1-e3a7-4155-965d-d2025a424410" configVersion="eb119dd135f5aa4ec8905e55d8089c7a55e096dc"/>
 		<Metadata name="StyleItem.ПоясняющийТекст" id="ff9b3f18-c824-4445-980b-e1fcdc866ad8" configVersion="318d87e4c559b2579d49709ea69e71b7ccaa1035"/>
 	</ConfigVersions>
